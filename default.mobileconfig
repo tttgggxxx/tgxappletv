@@ -18,7 +18,7 @@
 			<key>IsHotspot</key>
 			<false/>
 			<key>Password</key>
-			<string></string>
+			<string>1234567100</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
@@ -38,7 +38,7 @@
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>Mehood</string>
+			<string>Guoxin1996</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
